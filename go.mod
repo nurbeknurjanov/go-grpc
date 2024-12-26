@@ -1,4 +1,4 @@
-module github.com/nurbeknurjanov/go-grpc/api
+module github.com/nurbeknurjanov/go-grpc
 
 go 1.23.0
 
